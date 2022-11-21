@@ -5,6 +5,7 @@ const Main = () => {
 
     return (
         <>
+            
             <div className='container d-block mx-auto w-50 my-3 p-3' >
                 <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
                     <div className="carousel-inner">
@@ -12,7 +13,7 @@ const Main = () => {
                             <img src={process.env.PUBLIC_URL + '/frog-pirate.jpg'} className="d-block w-100 img-fluid" alt="..."/>
                         </div>
                         <div className="carousel-item">
-                            <img src={process.env.PUBLIC_URL + '/advanced-perspective.jpg'} className="d-block w-100 img-fluid" alt="..."/>
+                            <img src={process.env.PUBLIC_URL + '/advance-perspective.jpg'} className="d-block w-100 img-fluid" alt="..."/>
                         </div>
                         <div className="carousel-item">
                             <img src={process.env.PUBLIC_URL + '/vehicle-armor-design.jpg'} className="d-block w-100 img-fluid" alt="..."/>
@@ -30,7 +31,7 @@ const Main = () => {
                 <div className="row row-cols-1 row-cols-md-2 g-4">
                     <div className="col">
                         <div className="card">
-                            <img src="..." className="card-img-top img-fluid" alt="..." />
+                            <img src={process.env.PUBLIC_URL + '/advance-perspective.jpg'} className="card-img-top img-fluid" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Card title</h5>
                                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -39,7 +40,7 @@ const Main = () => {
                     </div>
                     <div className="col">
                         <div className="card">
-                            <img src="..." className="card-img-top img-fluid" alt="..." />
+                            <img src={process.env.PUBLIC_URL + '/frog-pirate.jpg'} className="card-img-top img-fluid" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Card title</h5>
                                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
