@@ -85,7 +85,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/photobash-dragon.jpg'} className="card-img-top img-fluid" alt="photobash-dragon" />
                                     <div className="card-body">
                                         <h5 className="card-title">Photobash Dragon</h5>
-                                        <p className="card-text">Based on Genshin Impact</p>
+                                        <p className="card-text">Based on Genshin Impact, and made with images from google.</p>
                                     </div>
                                 </div>
                             </div>
@@ -93,26 +93,26 @@ const Main = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + '/photobash-fight.jpg'} className="card-img-top img-fluid" alt="photobash-fight" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Description This content is a little bit longer.</p>
+                                        <h5 className="card-title">Two Titians Fighting</h5>
+                                        <p className="card-text">Made with images from google.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src="..." className="card-img-top img-fluid" alt="..." />
+                                    <img src={process.env.PUBLIC_URL + '/sub-design.jpg'} className="card-img-top img-fluid" alt="sub-design" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Description</p>
+                                        <h5 className="card-title">Submarine Design</h5>
+                                        <p className="card-text">Character and vehicle design.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src="..." className="card-img-top img-fluid" alt="..." />
+                                    <img src={process.env.PUBLIC_URL + '/sea-girl.jpg'} className="card-img-top img-fluid" alt="sea-girl" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Description This content is a little bit longer.</p>
+                                        <h5 className="card-title">Sea Girl</h5>
+                                        <p className="card-text">A fanart digial drawing of a character from genshin impact.</p>
                                     </div>
                                 </div>
                             </div>
@@ -122,28 +122,28 @@ const Main = () => {
                         <div className="row row-cols-1 row-cols-md-2 g-4">
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/advance-perspective.jpg'} className="card-img-top img-fluid" alt="..." />
+                                    <img src={process.env.PUBLIC_URL + '/bride-painting.jpg'} className="card-img-top img-fluid" alt="bride-painting" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Description This content is a little bit longer.</p>
+                                        <h5 className="card-title">Bride Painting</h5>
+                                        <p className="card-text">A oil painting of a bride.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/frog-pirate.jpg'} className="card-img-top img-fluid" alt="..." />
+                                    <img src={process.env.PUBLIC_URL + '/feet-sketch.jpg'} className="card-img-top img-fluid" alt="feet-sketch" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Description This content is a little bit longer.</p>
+                                        <h5 className="card-title">Body Sketch</h5>
+                                        <p className="card-text">Hand and Feet sketch.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src="..." className="card-img-top img-fluid" alt="..." />
+                                    <img src={process.env.PUBLIC_URL + '/woman-profile.jpg'} className="card-img-top img-fluid" alt="woman-profile" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Description</p>
+                                        <h5 className="card-title">Woman Profile</h5>
+                                        <p className="card-text">Painting of a woman's profile.</p>
                                     </div>
                                 </div>
                             </div>
