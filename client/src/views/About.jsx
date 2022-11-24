@@ -16,6 +16,8 @@ const About = () => {
                 <div>
                     <img src="..." class="rounded" alt="..."/>
                     <p>Vanessa Emerick, Programmer</p>
+                    <p>Graduate of UC Extention Coding Program</p>
+                    <p>Graduate of Sunnyvale Coding Dojo Program</p>
                 </div>
             </div>
         </>
