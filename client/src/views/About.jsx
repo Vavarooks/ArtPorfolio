@@ -12,6 +12,7 @@ const About = () => {
                     <img src="..." class="rounded" alt="..."/>
                     <p>Evelyn Emerick, Artist</p>
                     <p>Graduate of Art Academy</p>
+                    <p>My Sister :0</p>
                 </div>
                 <div>
                     <img src="..." class="rounded" alt="..."/>
