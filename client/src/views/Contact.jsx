@@ -8,7 +8,7 @@ const Contact = () => {
         <>
             <div className='container d-block mx-auto w-50 my-3 p-3' >
                 <h1>Contact</h1>
-                <form method="post" action="mailto:youremail@youremail.com">
+                <form method="post" action="mailto:evelyn_emerick@aol.com">
                     <div className="mb-3">
                         <label className="form-label">Email address</label>
                         <input type="email" className="form-control" placeholder="name@example.com"/>

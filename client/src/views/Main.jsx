@@ -149,7 +149,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src="..." className="card-img-top img-fluid" alt="..." />
+                                    <img src={process.env.PUBLIC_URL + '/woman-profile.jpg'} className="card-img-top img-fluid" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">Card title</h5>
                                         <p className="card-text">Description This content is a little bit longer.</p>

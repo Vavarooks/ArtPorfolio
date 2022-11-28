@@ -14,11 +14,13 @@ const About = () => {
                     <p>Graduate of Art Academy</p>
                     <p>My Sister :0</p>
                 </div>
-                <div>
-                    <img src="..." class="rounded" alt="..."/>
-                    <p>Vanessa Emerick, Programmer</p>
-                    <p>Graduate of UC Extention Coding Program</p>
-                    <p>Graduate of Sunnyvale Coding Dojo Program</p>
+                <div className='container card img-size'>
+                    <img src={process.env.PUBLIC_URL + '/selfie.jpg'} class="rounded img-fluid" alt="vanessa-emerick"/>
+                    <div className='card-body'>
+                        <p>Vanessa Emerick, Programmer</p>
+                        <p>Graduate of UC Extention Coding Program</p>
+                        <p>Graduate of Sunnyvale Coding Dojo Program</p>
+                    </div>
                 </div>
             </div>
         </>
