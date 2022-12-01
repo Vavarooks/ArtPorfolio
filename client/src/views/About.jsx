@@ -11,16 +11,17 @@ const About = () => {
                 <div className='container card img-size'>
                     <img src={process.env.PUBLIC_URL + '/selfie.jpg'} class="rounded img-fluid" alt="vanessa-emerick"/>
                         <div className='card-title'>
-                            <p>Evelyn Emerick, Artist</p>
+                            <p>Evelyn Emerick, Programmer</p>
                         </div>
                     <div className='card-body'>
-                        <p>Graduate of </p>
+                        <p>Graduate of Coding Dojo</p>
+                        <p>Graduate of UC Berkley Extention Coding Program</p>
                     </div>
                 </div>
                 <div className='container card img-size'>
                     <img src={process.env.PUBLIC_URL + '/selfie2.jpg'} class="rounded img-fluid" alt="evelyn-emerick"/>
                         <div className='card-title'>
-                            <p>Evelyn Emerick, Programmer</p>
+                            <p>Evelyn Emerick, Artist</p>
                         </div>
                     <div className='card-body'>
                         <p>Graduate of </p>
