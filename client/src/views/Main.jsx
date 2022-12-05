@@ -94,7 +94,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/photobash-fight.jpg'} className="card-img-top img-fluid" alt="photobash-fight" />
                                     <div className="card-body">
                                         <h5 className="card-title">Two Titians Fighting</h5>
-                                        <p className="card-text">Made with images from google.</p>
+                                        <p className="card-text">Made with images from google. Based on Fantasy Ideals</p>
                                     </div>
                                 </div>
                             </div>
