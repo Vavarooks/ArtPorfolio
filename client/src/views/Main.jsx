@@ -151,8 +151,8 @@ const Main = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + '/woman-profile.jpg'} className="card-img-top img-fluid" alt="..." />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Description This content is a little bit longer.</p>
+                                        <h5 className="card-title">Placeholder Image</h5>
+                                        <p className="card-text">To Be Added</p>
                                     </div>
                                 </div>
                             </div>
