@@ -24,7 +24,7 @@ const About = () => {
                             <p>Evelyn Emerick, Artist</p>
                         </div>
                     <div className='card-body'>
-                        <p>Graduate of </p>
+                        <p>Graduate of Art Academy</p>
                     </div>
                 </div>
             </div>
