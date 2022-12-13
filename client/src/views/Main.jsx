@@ -11,13 +11,13 @@ const Main = () => {
                 <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src={process.env.PUBLIC_URL + '/frog-pirate.jpg'} className="d-block w-100 img-fluid" alt="frog-pirate" />
+                            <img src={process.env.PUBLIC_URL + '/images/frog-pirate.jpg'} className="d-block w-100 img-fluid" alt="frog-pirate" />
                         </div>
                         <div className="carousel-item">
-                            <img src={process.env.PUBLIC_URL + '/advance-perspective.jpg'} className="d-block w-100 img-fluid" alt="advanced-perspective" />
+                            <img src={process.env.PUBLIC_URL + '/images/advance-perspective.jpg'} className="d-block w-100 img-fluid" alt="advanced-perspective" />
                         </div>
                         <div className="carousel-item">
-                            <img src={process.env.PUBLIC_URL + '/vehicle-armor-design.jpg'} className="d-block w-100 img-fluid" alt="vehicle-armor-design" />
+                            <img src={process.env.PUBLIC_URL + '/images/vehicle-armor-design.jpg'} className="d-block w-100 img-fluid" alt="vehicle-armor-design" />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -41,7 +41,7 @@ const Main = () => {
                         <div className="row row-cols-1 row-cols-md-2 g-4">
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/wizard-design.jpg'} className="card-img-top img-fluid" alt="wizard-design" />
+                                    <img src={process.env.PUBLIC_URL + '/images/wizard-design.jpg'} className="card-img-top img-fluid" alt="wizard-design" />
                                     <div className="card-body">
                                         <h5 className="card-title">Character Design</h5>
                                         <p className="card-text">Simple mach-up of your character. Price: 15$ or more if you want extra details.</p>
@@ -50,7 +50,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/muse-design.jpg'} className="card-img-top img-fluid" alt="muse-design" />
+                                    <img src={process.env.PUBLIC_URL + '/images/muse-design.jpg'} className="card-img-top img-fluid" alt="muse-design" />
                                     <div className="card-body">
                                         <h5 className="card-title">Detailed Character Design</h5>
                                         <p className="card-text">Detailed character design. Price: 15$ or more if you want more details.</p>
@@ -59,7 +59,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/girl-cup.jpg'} className="card-img-top img-fluid" alt="girl-cup" />
+                                    <img src={process.env.PUBLIC_URL + '/images/girl-cup.jpg'} className="card-img-top img-fluid" alt="girl-cup" />
                                     <div className="card-body">
                                         <h5 className="card-title">Single Character</h5>
                                         <p className="card-text">Detailed digital drawing of your character. Price: 20$ or more if you want a background or more details.</p>
@@ -68,7 +68,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/genshin-fanart.jpg'} className="card-img-top img-fluid" alt="magical-girl" />
+                                    <img src={process.env.PUBLIC_URL + '/images/genshin-fanart.jpg'} className="card-img-top img-fluid" alt="magical-girl" />
                                     <div className="card-body">
                                         <h5 className="card-title">Large Full Body Character</h5>
                                         <p className="card-text">Detailed digital drawing of your character. Price: 25$ or more if you want a background or more detail.</p>
@@ -82,7 +82,7 @@ const Main = () => {
                         <div className="row row-cols-1 row-cols-md-2 g-4">
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/photobash-dragon.jpg'} className="card-img-top img-fluid" alt="photobash-dragon" />
+                                    <img src={process.env.PUBLIC_URL + '/images/photobash-dragon.jpg'} className="card-img-top img-fluid" alt="photobash-dragon" />
                                     <div className="card-body">
                                         <h5 className="card-title">Photobash Dragon</h5>
                                         <p className="card-text">Based on Genshin Impact, and made with images from google.</p>
@@ -91,7 +91,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/photobash-fight.jpg'} className="card-img-top img-fluid" alt="photobash-fight" />
+                                    <img src={process.env.PUBLIC_URL + '/images/photobash-fight.jpg'} className="card-img-top img-fluid" alt="photobash-fight" />
                                     <div className="card-body">
                                         <h5 className="card-title">Two Titians Fighting</h5>
                                         <p className="card-text">Made with images from google. Based on Fantasy Ideals</p>
@@ -100,7 +100,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/sub-design.jpg'} className="card-img-top img-fluid" alt="sub-design" />
+                                    <img src={process.env.PUBLIC_URL + '/images/sub-design.jpg'} className="card-img-top img-fluid" alt="sub-design" />
                                     <div className="card-body">
                                         <h5 className="card-title">Submarine Design</h5>
                                         <p className="card-text">Character and vehicle design.</p>
@@ -109,7 +109,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/sea-girl.jpg'} className="card-img-top img-fluid" alt="sea-girl" />
+                                    <img src={process.env.PUBLIC_URL + '/images/sea-girl.jpg'} className="card-img-top img-fluid" alt="sea-girl" />
                                     <div className="card-body">
                                         <h5 className="card-title">Sea Girl</h5>
                                         <p className="card-text">A fanart digial drawing of a character from genshin impact.</p>
@@ -122,7 +122,7 @@ const Main = () => {
                         <div className="row row-cols-1 row-cols-md-2 g-4">
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/bride-painting.jpg'} className="card-img-top img-fluid" alt="bride-painting" />
+                                    <img src={process.env.PUBLIC_URL + '/images/bride-painting.jpg'} className="card-img-top img-fluid" alt="bride-painting" />
                                     <div className="card-body">
                                         <h5 className="card-title">Bride Painting</h5>
                                         <p className="card-text">A oil painting of a bride.</p>
@@ -131,7 +131,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/feet-sketch.jpg'} className="card-img-top img-fluid" alt="feet-sketch" />
+                                    <img src={process.env.PUBLIC_URL + '/images/feet-sketch.jpg'} className="card-img-top img-fluid" alt="feet-sketch" />
                                     <div className="card-body">
                                         <h5 className="card-title">Body Sketch</h5>
                                         <p className="card-text">Hand and Feet sketch.</p>
@@ -140,7 +140,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/woman-profile.jpg'} className="card-img-top img-fluid" alt="woman-profile" />
+                                    <img src={process.env.PUBLIC_URL + '/images/woman-profile.jpg'} className="card-img-top img-fluid" alt="woman-profile" />
                                     <div className="card-body">
                                         <h5 className="card-title">Woman Profile</h5>
                                         <p className="card-text">Painting of a woman's profile.</p>
@@ -149,7 +149,7 @@ const Main = () => {
                             </div>
                             <div className="col">
                                 <div className="card">
-                                    <img src={process.env.PUBLIC_URL + '/woman-profile.jpg'} className="card-img-top img-fluid" alt="..." />
+                                    <img src={process.env.PUBLIC_URL + '/images/woman-profile.jpg'} className="card-img-top img-fluid" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">Placeholder Image</h5>
                                         <p className="card-text">To Be Added</p>
