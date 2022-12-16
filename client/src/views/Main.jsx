@@ -85,7 +85,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/photobash-dragon.jpg'} className="card-img-top img-fluid" alt="photobash-dragon" />
                                     <div className="card-body">
                                         <h5 className="card-title">Photobash Dragon</h5>
-                                        <p className="card-text">Based on Genshin Impact, and made with images from google.</p>
+                                        <p className="card-text">This is a creature from a game I wanted to try my hand at photo bashing for my first attempt it’s not that bad but I definitely need to work more on it and try more photo coms so it’s not just one photo that I use</p>
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/photobash-fight.jpg'} className="card-img-top img-fluid" alt="photobash-fight" />
                                     <div className="card-body">
                                         <h5 className="card-title">Two Titians Fighting</h5>
-                                        <p className="card-text">Made with images from google. Based on Fantasy Ideals</p>
+                                        <p className="card-text">this photo bash I did a bit better than my first attempt but I still need to work more at it, but I feel it’s more original than my first photo bash attempt</p>
                                     </div>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/sub-design.jpg'} className="card-img-top img-fluid" alt="sub-design" />
                                     <div className="card-body">
                                         <h5 className="card-title">Submarine Design</h5>
-                                        <p className="card-text">Character and vehicle design.</p>
+                                        <p className="card-text">in this post apocalyptic world it is flooded my basic idea was that something happened and there’s no land anymore so people live in ships this diver is on the search for others the flags I have here a signal flags you would see on a ship with the idea being that they would attract the attention of other ships</p>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/sea-girl.jpg'} className="card-img-top img-fluid" alt="sea-girl" />
                                     <div className="card-body">
                                         <h5 className="card-title">Sea Girl</h5>
-                                        <p className="card-text">A fanart digial drawing of a character from genshin impact.</p>
+                                        <p className="card-text">This is an illustration I made with a fairy riding a tea pot I just wanted to practice making illustrations since I don’t do many this drawing gave me a chance to do many things</p>
                                     </div>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/feet-sketch.jpg'} className="card-img-top img-fluid" alt="feet-sketch" />
                                     <div className="card-body">
                                         <h5 className="card-title">Body Sketch</h5>
-                                        <p className="card-text">Hand and Feet sketch.</p>
+                                        <p className="card-text"> this is a sheet from my sketch book of me practicing drawing hands and feet in different poses I still need to work on it but I feel a I am getting better at drawing hands and feet</p>
                                     </div>
                                 </div>
                             </div>
@@ -143,7 +143,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/woman-profile.jpg'} className="card-img-top img-fluid" alt="woman-profile" />
                                     <div className="card-body">
                                         <h5 className="card-title">Woman Profile</h5>
-                                        <p className="card-text">Painting of a woman's profile.</p>
+                                        <p className="card-text">this is a monochromatic painting I did the image is from online but I painted it in this was my first time trying something like it and I really like how it turned out there are more things I would want to do for the next time I try this like trying to make my paint more smooth and not so rugged looking but that’s something painting more can help me figure out</p>
                                     </div>
                                 </div>
                             </div>
