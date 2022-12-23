@@ -11,10 +11,9 @@ const About = () => {
                 <div className='container card img-size'>
                     <img src={process.env.PUBLIC_URL + '/images/selfie.jpg'} class="rounded img-fluid" alt="vanessa-emerick"/>
                         <div className='card-title'>
-                            <p>Evelyn Emerick, Programmer</p>
+                            <p>Vanessa Emerick, Programmer</p>
                         </div>
                     <div className='card-body'>
-                        <p>This is more about evelyn emerick. She is a girl who loves art and wants to be better</p>
                         <p>Graduate of Coding Dojo</p>
                         <p>Graduate of UC Berkley Extention Coding Program</p>
                     </div>
@@ -25,6 +24,8 @@ const About = () => {
                             <p>Evelyn Emerick, Artist</p>
                         </div>
                     <div className='card-body'>
+                    <p>This is more about evelyn emerick. She is a girl who loves art and wants to be better</p>
+                        <p></p>
                         <p>Graduate of Art Academy</p>
                     </div>
                 </div>
