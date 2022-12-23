@@ -14,6 +14,7 @@ const About = () => {
                             <p>Evelyn Emerick, Programmer</p>
                         </div>
                     <div className='card-body'>
+                        <p>This is more about evelyn emerick. She is a girl who loves art and wants to be better</p>
                         <p>Graduate of Coding Dojo</p>
                         <p>Graduate of UC Berkley Extention Coding Program</p>
                     </div>
