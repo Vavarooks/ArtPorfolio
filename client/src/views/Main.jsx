@@ -125,7 +125,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/bride-painting.jpg'} className="card-img-top img-fluid" alt="bride-painting" />
                                     <div className="card-body">
                                         <h5 className="card-title">Bride Painting</h5>
-                                        <p className="card-text">A oil painting of a bride.</p>
+                                        <p className="card-text">For bride painting: A painting of a bride in her wedding day I hope I captured the joy someone feels during that time. A oil painting of a bride.</p>
                                     </div>
                                 </div>
                             </div>
