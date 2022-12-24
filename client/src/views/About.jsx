@@ -24,9 +24,10 @@ const About = () => {
                             <p>Evelyn Emerick, Artist</p>
                         </div>
                     <div className='card-body'>
-                    <p>This is more about evelyn emerick. She is a girl who loves art and wants to be better</p>
-                        <p></p>
                         <p>Graduate of Art Academy</p>
+                        <p>About me: I have been drawing for as long as I can remember. I started going to art school because I to want to create art for a living. 
+                            My dream is to give others the same feelings I have through my works. I want to inspire others who love art to draw themselves.
+                            My current goal is just to help make compelling environments to have other say that would it is beautiful</p>
                     </div>
                 </div>
             </div>
