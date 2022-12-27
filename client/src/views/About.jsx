@@ -17,7 +17,7 @@ const About = () => {
                         <p>Graduate of Coding Dojo</p>
                         <p>Graduate of UC Berkley Extention Coding Program</p>
                         <p>About me: I have been programming for many years now. Over 10,000 hours plus. I know many programming languages like Javascript, Python and Java.
-                            My dream is to one day make my own game so I can deliver joy to the world.
+                            My dream is to one day make my own game so I can deliver joy to the world. Learning coding has expanded my horizons so much.
                         </p>
                     </div>
                 </div>
