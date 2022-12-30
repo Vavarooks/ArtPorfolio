@@ -44,7 +44,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/wizard-design.jpg'} className="card-img-top img-fluid" alt="wizard-design" />
                                     <div className="card-body">
                                         <h5 className="card-title">Character Design</h5>
-                                        <p className="card-text">Simple mach-up of your character. Price: 15$ or more if you want extra details.</p>
+                                        <p className="card-text">Simple mach-up of your character. Price: 15$ *Price is subject to change</p>
                                     </div>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/muse-design.jpg'} className="card-img-top img-fluid" alt="muse-design" />
                                     <div className="card-body">
                                         <h5 className="card-title">Detailed Character Design</h5>
-                                        <p className="card-text">Detailed character design. Price: 15$ or more if you want more details.</p>
+                                        <p className="card-text">Detailed character design. Price: 15$ *Price is subject to change</p>
                                     </div>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/girl-cup.jpg'} className="card-img-top img-fluid" alt="girl-cup" />
                                     <div className="card-body">
                                         <h5 className="card-title">Single Character</h5>
-                                        <p className="card-text">Detailed digital drawing of your character. Price: 20$ or more if you want a background or more details.</p>
+                                        <p className="card-text">Detailed digital drawing of your character. Price: 20$ *Price is subject to change</p>
                                     </div>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@ const Main = () => {
                                     <img src={process.env.PUBLIC_URL + '/images/genshin-fanart.jpg'} className="card-img-top img-fluid" alt="magical-girl" />
                                     <div className="card-body">
                                         <h5 className="card-title">Large Full Body Character</h5>
-                                        <p className="card-text">Detailed digital drawing of your character. Price: 25$ or more if you want a background or more detail.</p>
+                                        <p className="card-text">Detailed digital drawing of your character. Price: 25$ *Price is subject to change</p>
                                     </div>
                                 </div>
                             </div>
